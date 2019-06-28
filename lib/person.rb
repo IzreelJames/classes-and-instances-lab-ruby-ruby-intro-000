@@ -4,4 +4,4 @@ end
 adele_goldberg = Person.new
 
 
- alan_kay= Person.neww
+ alan_kay= Person.new
