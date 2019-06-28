@@ -1,11 +1,11 @@
 class Dog 
-  f_dName = 'fido'
+  'fido'= Dog.new
 end
 
 class Dog
-  s_dName = 'snoopy'
+  'snoopy'= Dog.new
 end
 
 class Dog
-  t_dName = 'lassie'
+  'lassie'= Dog.new
 end

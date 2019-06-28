@@ -1,7 +1,7 @@
 class Person
-  f_pName = 'adele_goldberg'
+  'adele_goldberg' = Person.new
 end
 
 class Person
-  s_pName = 'alan_kay'
+ 'alan_kay'= Person.new
 end 
